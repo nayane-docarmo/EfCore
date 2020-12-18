@@ -45,6 +45,7 @@ namespace Senai.EfCore.Repositories
         {
             try
             {
+
                 // return _ctx.Produtos.FirstOrDefault(c => c.Id == id); /*Outro metodo*/
                 //expressão lambda
 
@@ -114,10 +115,10 @@ namespace Senai.EfCore.Repositories
             {   //Buscar produto pelo id
                 Produto produtoTemp = BuscarPorId(produto.Id);
 
-                //verificar se ele existe
-                //Caso não existir gera uma exception
-                if(produtoTemp == null)
-                    throw new Exception("Produto não encontrado");
+                ////verificar se ele existe Caso não existir gera uma exception
+               
+                //if(produtoTemp == null)
+                    //throw new Exception("Produto não encontrado"); /*Condição direcionada no controller*/
 
                 //Caso exista altera sua propriedade
                 produtoTemp.Nome = produto.Nome;
@@ -130,6 +131,7 @@ namespace Senai.EfCore.Repositories
             }
             catch (Exception ex)
             {
+                //TODO: Cadastrar Tabela logErro mensagem de erro com Tag Geral
                 throw new Exception(ex.Message);
             }
         }
@@ -156,6 +158,10 @@ namespace Senai.EfCore.Repositories
             }
             catch (Exception ex)
             {
+                //TODO : Incluir erro no log do banco de dados.
+                /*Marcar tarefa para fazer mais tarde, visualizar em "exibir" - "lista de tarefas"*/
+
+
 
                 throw new Exception(ex.Message);
             }
