@@ -59,3 +59,13 @@ C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.Ef
 C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.EfCore.dll
 C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.EfCore.pdb
 C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.EfCore.genruntimeconfig.cache
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.EfCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\bin\Debug\netcoreapp3.1\Senai.EfCore.xml
+C:\Users\fic\Desktop\Nayane\EfCore\Senai.EfCore\obj\Debug\netcoreapp3.1\Senai.EfCore.xml
